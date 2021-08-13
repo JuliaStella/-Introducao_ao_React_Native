@@ -53,7 +53,8 @@ body{
     background-color: #ffffff;
     width: 100%;
     padding: 1.3rem 0;
-    border: 1px solid lightgray;
+    border: 4px solid;
+    border-image: linear-gradient(135deg, #A545BF 0%, #D93682, #F2B05E 100%) 1;
 }
 
 .group:nth-child(1){
